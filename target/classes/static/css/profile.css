@@ -1,0 +1,22 @@
+.loan-button {
+    background-color: #8c3030 !important;
+    border: none;
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 14px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 12px;
+    transition: background-color 0.3s ease;
+}
+
+.loan-button:hover {
+    background-color: #bb1d1d !important;
+}
+
+.loan-button:active {
+    background-color: #d91515 !important;
+}
